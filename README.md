@@ -5,6 +5,8 @@
     :construction:  Em Desenvolvimento  :construction:
 </h4>
 
+<p>O site se econtra aqui: <href>https://thiagosilvahenrick.github.io/star-wars-info.github.io/</href></p>
+
 <h3>✔️ Tecnologias utilizadas</h3>
 <h4>HTML</h4>
 <h4>CSS</h4>
