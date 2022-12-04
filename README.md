@@ -11,3 +11,12 @@
 <h4>JAVASCRIPT</h4>
 
 <h4> Projeto pratico para a disciplina de WEB 2 do IFPE Campus Jaboatão. </h4>
+
+# Autores
+
+[<img src="https://user-images.githubusercontent.com/78651414/205517854-aecd61be-e709-4fe8-acbe-1dd829a7f882.jpg" width=115><br><sub>Thiago Henrick da Silva</sub>](https://github.com/thiagosilvahenrick) 
+
+
+<h2 align="center">Imagem do Projeto</h2>
+<img src="https://user-images.githubusercontent.com/78651414/205517590-e3092287-cf6c-45e9-a784-4656c2219203.png"></img>
+
